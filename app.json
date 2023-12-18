@@ -1,0 +1,10 @@
+{
+    "name": "Fantasy AI",
+    "description": "Generator of languages for Fantasy",
+    "repository": "https://github.com/kevinzeladacl/fantasy.ai",
+    "keywords": [
+        "python",
+        "streamlit",
+        "codegpt"
+    ]
+}
